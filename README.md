@@ -1,2 +1,3 @@
 # Test_Demo
-This is a test repo for hand on Lab purpose
+**This is a test repo for hand on Lab purpose**
+*Testing italic*
